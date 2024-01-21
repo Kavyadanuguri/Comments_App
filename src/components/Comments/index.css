@@ -1,0 +1,81 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #ffffff;
+  background-size: cover;
+  height: 100vh;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.container1 {
+  display: flex;
+  flex-direction: row;
+}
+.com1 {
+  display: flex;
+  flex-direction: row;
+  margin-left: 270px;
+}
+.container2 {
+  display: flex;
+  flex-direction: column;
+  margin-right: 530px;
+  width: 65%;
+}
+
+.con1 {
+  display: flex;
+  flex-direction: column;
+}
+.comment-label-item {
+  margin-bottom: 20px;
+}
+
+.comment-input-element {
+  margin-bottom: 20px;
+  border-radius: 5px;
+  height: 50px;
+  border-color: black;
+  padding: 5px;
+}
+.comment-textarea {
+  padding: 5px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  height: 130px;
+  border-color: black;
+}
+.comment-button {
+  background-color: #0284c7;
+  height: 40px;
+  color: #ffffff;
+  width: 150px;
+  border-radius: 5px;
+  border-width: 0px;
+}
+.comments-image1 {
+  margin-left: 120px;
+  margin-top: 80px;
+}
+.comment-hr {
+  border-width: 1px;
+  width: 66%;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.comments-p1 {
+  background-color: #0284c7;
+  color: #ffffff;
+  height: 25px;
+  width: 25px;
+  border-width: 0px;
+  border-radius: 5px;
+  padding-left: 10px;
+  margin-right: 10px;
+}
+.bg-ul {
+  background-color: #ffffff;
+  border-radius: 10px;
+}
